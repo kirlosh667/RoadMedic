@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RoadMedic</string>
+
+    <!-- Home screen -->
+    <string name="report_pothole">Report Pothole</string>
+    <string name="view_reports">View Reports</string>
+    <string name="view_map">View Map</string>
+
+    <!-- View Reports screen -->
+    <string name="saved_pothole_reports">Saved Pothole Reports</string>
+    <string name="clear_all_reports">Clear All Reports</string>
+
+    <!-- Detail screen labels -->
+    <string name="pothole_report_detail">Pothole Report Detail</string>
+    <string name="time_label">Time:</string>
+    <string name="location_label">Location:</string>
+    <string name="image_path_label">Image path:</string>
+
+    <!-- Detail screen formatted strings -->
+    <string name="report_detail_title">Pothole Report</string>
+    <string name="report_detail_time">Time: %1$s</string>
+    <string name="report_detail_location">Location: %1$s, %2$s</string>
+    <string name="report_detail_image_path">Image path: %1$s</string>
+
+    <!-- NEW -->
+    <string name="open_in_maps">Open in Maps</string>
+    <string name="share_report">Share Report</string>
+</resources>

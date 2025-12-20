@@ -1,0 +1,20 @@
+<resources>
+    <style name="Theme.RoadMedic" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <!-- Core brand colors -->
+        <item name="colorPrimary">@color/rm_primary</item>
+        <item name="colorPrimaryVariant">@color/rm_primary_dark</item>
+        <item name="colorOnPrimary">@color/rm_on_primary</item>
+        <item name="colorSecondary">@color/rm_secondary</item>
+
+        <!-- Backgrounds -->
+        <item name="android:windowBackground">@color/rm_background</item>
+
+        <!-- Make default text dark -->
+        <item name="android:textColorPrimary">#000000</item>
+        <item name="android:textColorSecondary">#333333</item>
+    </style>
+
+    <style name="Theme.RoadMedic.Splash" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowBackground">@color/rm_primary</item>
+    </style>
+</resources>

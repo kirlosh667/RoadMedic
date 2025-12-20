@@ -1,0 +1,8 @@
+<resources>
+    <!-- RoadMedic brand-ish colors -->
+    <color name="rm_primary">#FF5722</color>        <!-- Deep orange -->
+    <color name="rm_primary_dark">#E64A19</color>  <!-- Darker orange -->
+    <color name="rm_secondary">#009688</color>     <!-- Teal -->
+    <color name="rm_background">#FAFAFA</color>
+    <color name="rm_on_primary">#FFFFFF</color>
+</resources>
